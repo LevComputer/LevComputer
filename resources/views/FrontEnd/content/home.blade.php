@@ -25,8 +25,9 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row content">
-          <div class="col-lg-6" data-aos="fade-right">
+          <div class="col-lg-6" data-aos="fade-right" style="text-align: center">
             <h2>Tentang Kami</h2>
+            <a href="#hero" class="logo me-auto me-lg-0" style="justify-items: center"><img src="FrontEndSourceFile/assets/img/logo.png" alt="" class="img-fluid"></a>
 
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
