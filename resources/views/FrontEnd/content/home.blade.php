@@ -2,7 +2,7 @@
 
 @section('title')
 
-  Lev Computer : Layanan Perbaikan Komputer
+  Lev Computer : Layanan Perbaikan Komputer Kota Makassar Tercepat, Terdekat, dan Termurah
     
 @endsection
 
@@ -328,10 +328,17 @@
 
     <!-- ======= Our Clients Section ======= -->
     <section id="clients" class="clients">
-      <div class="container" data-aos="fade-up">
+
+      <div class="container" data-aos="fade-down">
+
+        <img src="FrontEndSourceFile/assets/img/clients/Panah Bawah.png" style="display: block; margin-left: auto; margin-right: auto;" alt="">
+      
+      </div>
+
+      <div class="container" data-aos="fade-up"> 
 
         <div class="text-center">
-          <a href="https://www.google.com/maps/place/Lev+Computer+Makassar/@-5.1261485,119.4868625,17z/data=!4m7!3m6!1s0x2dbefdb94acb52e1:0xe5cb89dc2e90eee0!8m2!3d-5.1261538!4d119.4890512!9m1!1b1" type="submit" name="btn" class="btn btn-primary btn-block" style="background-color: maroon; margin-top:10px; margin-bottom:50px;">CEK ULASAN GOOGLE MAPS</a>
+          <a href="https://www.google.com/maps/place/Lev+Computer+Makassar/@-5.1261485,119.4868625,17z/data=!4m7!3m6!1s0x2dbefdb94acb52e1:0xe5cb89dc2e90eee0!8m2!3d-5.1261538!4d119.4890512!9m1!1b1" type="submit" name="btn" class="btn btn-primary btn-block" style="background-color: maroon; margin-top:10px; margin-bottom:50px;"><h1>CEK ULASAN GOOGLE MAPS</h1></a>
         </div>
 
         <div class="section-title">

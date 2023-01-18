@@ -28,11 +28,11 @@
         </div>
 
         <div class="col-lg-3 col-md-6 footer-links">
-        <h4>Our Services</h4>
+        <h4>Other</h4>
         <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="https://wa.me/6282259256328/">Services Laptop & PC</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="https://wa.me/6282259256328/">Services Handphone</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="https://wa.me/6282259256328/">Services PS4</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="https://www.privacypolicyonline.com/live.php?token=22P0ECUaPJP40z5tSdvUDFRXCrcqvxHS">Privacy Policy</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="https://www.privacypolicyonline.com/live.php?token=3VJygFTCuXjcDGIwsraLBlguYN8RQNQT">Disclaimer</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="https://www.privacypolicyonline.com/live.php?token=q6BP2w4vbDjxXWI2RHiXEzzd1khnrt7H">Terms Of Service</a></li>
         </ul>
         </div>
 
