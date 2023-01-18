@@ -10,13 +10,13 @@
         <p>
             Jl. Sahabat 5 <br> Tamalanrea <br> Makassar<br>
             Sulawesi Selatan <br><br>
-            <strong>Phone:</strong> 0822-5925-6328<br>
+            <strong>No. Telpon:</strong> 0822-5925-6328<br>
             <strong>Email:</strong> levafr369@gmail.com<br>
         </p>
         </div>
 
         <div class="col-lg-2 col-md-6 footer-links">
-        <h4>Useful Links</h4>
+        <h4>Navigasi</h4>
         <ul>
             <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
             <li><i class="bx bx-chevron-right"></i> <a href="#about-us">Tentang</a></li>
@@ -28,16 +28,16 @@
         </div>
 
         <div class="col-lg-3 col-md-6 footer-links">
-        <h4>Other</h4>
+        <h4>Lainnya</h4>
         <ul>
-            <li><i class="bx bx-chevron-right"></i> <a href="https://www.privacypolicyonline.com/live.php?token=22P0ECUaPJP40z5tSdvUDFRXCrcqvxHS">Privacy Policy</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="https://www.privacypolicyonline.com/live.php?token=3VJygFTCuXjcDGIwsraLBlguYN8RQNQT">Disclaimer</a></li>
-            <li><i class="bx bx-chevron-right"></i> <a href="https://www.privacypolicyonline.com/live.php?token=q6BP2w4vbDjxXWI2RHiXEzzd1khnrt7H">Terms Of Service</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="https://www.privacypolicyonline.com/live.php?token=22P0ECUaPJP40z5tSdvUDFRXCrcqvxHS">Kebijakan Privasi</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="https://www.privacypolicyonline.com/live.php?token=3VJygFTCuXjcDGIwsraLBlguYN8RQNQT">Pertanggungjawaban Pengguna</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="https://www.privacypolicyonline.com/live.php?token=q6BP2w4vbDjxXWI2RHiXEzzd1khnrt7H">Ketentuan Layanan</a></li>
         </ul>
         </div>
 
         <div class="col-lg-4 col-md-6 footer-newsletter">
-        <h4>Join Our Newsletter</h4>
+        <h4>Terima Kabar Dari Kami</h4>
         <form action="{{ route('newsletter_save')}}" method="post">
             @csrf
             <input type="email" name="newsletter_email" placeholder="Email"><input type="submit" value="Subscribe" >
@@ -52,7 +52,7 @@
 
     <div class="me-md-auto text-center text-md-start">
     <div class="copyright">
-        &copy; Copyright <strong><span>2022 by <a href="https://bootstrapmade.com/">Bootstrap</a></span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>2022 by <a href="">Lev Computer</a></span></strong>. All Rights Reserved
     </div>
     </div>
     <div class="social-links text-center text-md-right pt-3 pt-md-0">

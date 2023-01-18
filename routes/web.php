@@ -19,6 +19,8 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
+Route::get('sitemap.xml', [App\Http\Controllers\SitemapController::class, 'index']);
+
 //   ========= FrontEnd Start Here =========   //
 Route::get('/','App\Http\Controllers\frontendController@index')->name('home_index');
 Route::get('/category/computer/show/{category_id}','App\Http\Controllers\frontendController@show')->name('category_computer'); 

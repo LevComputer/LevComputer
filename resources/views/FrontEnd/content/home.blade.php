@@ -338,7 +338,7 @@
       <div class="container" data-aos="fade-up"> 
 
         <div class="text-center">
-          <a href="https://www.google.com/maps/place/Lev+Computer+Makassar/@-5.1261485,119.4868625,17z/data=!4m7!3m6!1s0x2dbefdb94acb52e1:0xe5cb89dc2e90eee0!8m2!3d-5.1261538!4d119.4890512!9m1!1b1" type="submit" name="btn" class="btn btn-primary btn-block" style="background-color: maroon; margin-top:10px; margin-bottom:50px;"><h1>CEK ULASAN GOOGLE MAPS</h1></a>
+          <a href="https://www.google.com/maps/place/Lev+Computer+Makassar/@-5.1261485,119.4868625,17z/data=!4m7!3m6!1s0x2dbefdb94acb52e1:0xe5cb89dc2e90eee0!8m2!3d-5.1261538!4d119.4890512!9m1!1b1" type="submit" name="btn" class="btn btn-primary btn-block my-3 p-4" style="background-color: maroon; "><h1 class="m-auto">CEK ULASAN GOOGLE MAPS</h1></a>
         </div>
 
         <div class="section-title">
